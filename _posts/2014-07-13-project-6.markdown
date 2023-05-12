@@ -1,0 +1,15 @@
+---
+title: SPUFO
+subtitle: Spurenfotos in einer App
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: title_c.jpg
+thumbnail: title_c.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: 
+
+---

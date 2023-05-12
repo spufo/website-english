@@ -1,0 +1,15 @@
+---
+title: Bildbearbeitung
+subtitle: Bilder direkt bearbeiten
+layout: default
+modal-id: 2
+date: 2014-07-14
+img: spurnr_c.jpg
+thumbnail: spurnr_c.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: 
+
+---

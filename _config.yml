@@ -1,0 +1,19 @@
+url: https://spufo.ch
+plugins:
+  - jekyll-sitemap
+baseurl: 
+
+# Site settings
+title: SPUFO
+email: contact@spufo.ch
+description: "SPUFO - Eine App für das Erfassung von Fingerabdrücken an Tatorten."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+
+# Postal address (add as many lines as necessary)
+address:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
