@@ -1,6 +1,6 @@
 ---
 title: SPUFO
-subtitle: Spurenfotos in einer App
+subtitle: Latent Photos in an App
 layout: default
 modal-id: 6
 date: 2014-07-15

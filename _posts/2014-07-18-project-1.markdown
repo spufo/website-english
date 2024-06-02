@@ -1,6 +1,6 @@
 ---
-title: Beste Fotoqualität
-subtitle: Dank neuster Smartphones
+title: Best Photo Quality
+subtitle: Thanks to the Latest Smartphones
 layout: default
 modal-id: 1
 date: 2014-07-18

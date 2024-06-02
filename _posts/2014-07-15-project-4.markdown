@@ -1,6 +1,6 @@
 ---
-title: Falldaten
-subtitle: Falldaten einfach erfassen
+title: Case Data
+subtitle: Easily Capture Case Data
 layout: default
 modal-id: 4
 date: 2014-07-15

@@ -4,9 +4,9 @@ plugins:
 baseurl: 
 
 # Site settings
-title: SPUFO-E
+title: SPUFO
 email: contact@spufo.ch
-description: "SPUFO - Eine App für das Erfassung von Fingerabdrücken an Tatorten."
+description: "SPUFO - An app for collecting fingerprints at crime scenes."
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

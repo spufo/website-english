@@ -1,6 +1,6 @@
 ---
-title: Schlichtes Design
-subtitle: Sehr einfache Bedienung
+title: Simple Design
+subtitle: Very Easy to Use
 layout: default
 modal-id: 5
 date: 2014-07-17
